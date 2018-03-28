@@ -1,9 +1,0 @@
-#include<iostream>
-using namespace std;
-
-int main()
-{
-  cout<<"my first github code"<<endl;
-  cout<<"now i changging the code on my linux virtual system"<<endl;
- return 0;
-}
